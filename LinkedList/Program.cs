@@ -11,17 +11,6 @@ namespace LinkedList
         static void Main(string[] args)
         {
 
-            LinkedList<string> MyList = new LinkedList<string>();
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
-            MyList.Add("LOh");
         
         }
     }
